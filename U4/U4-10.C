@@ -25,5 +25,5 @@ void main()
 	j++;
     }
     printf("Sum: %d",sum);
-    getch();
+   getch();
 }
